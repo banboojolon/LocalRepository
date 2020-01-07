@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToWord", "ExcelToWord.csproj", "{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Vendor|Any CPU = Vendor|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Vendor|Any CPU.ActiveCfg = Vendor|Any CPU
+		{8D8CDB56-2BFE-4766-9931-DC7D47C8CFC3}.Vendor|Any CPU.Build.0 = Vendor|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8EDF24-AFA5-45E1-BBF9-B1C874BAF006}
+	EndGlobalSection
+EndGlobal

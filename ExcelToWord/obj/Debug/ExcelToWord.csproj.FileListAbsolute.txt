@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\ExcelToWord.exe.config
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\ExcelToWord.exe
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\ExcelToWord.pdb
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.Form1.resources
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.Properties.Resources.resources
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.exe
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.pdb
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\NPOI.dll
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\NPOI.OOXML.dll
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\DELL\Desktop\ExcelToWord\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\DELL\Desktop\ExcelToWord\obj\Debug\ExcelToWord.csproj.CopyComplete
